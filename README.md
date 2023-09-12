@@ -2,8 +2,8 @@
 
 <h3> Market Analysis:</h3>
 Easy-Money is dedicated to addressing the gaps in existing MFS offerings while introducing high-demand services. Our primary focus is on Fintech lending, informed by the history of microcredit organizations in Bangladesh.
-![visual summary]((https://github.com/shajon1211045/Market-analysis-for-a-financial-service-App/blob/main/Untitled%20design.png
-))
+![visual summary](https://github.com/shajon1211045/Market-analysis-for-a-financial-service-App/blob/main/Untitled%20design.png
+)
 <h3>Key Insights:</h3>
 
 -Office staff and loan officer numbers fluctuated due to delinquency and the need for digitization.
