@@ -9,11 +9,17 @@ Easy-Money is dedicated to addressing the gaps in existing MFS offerings while i
 <h3>Key Insights:</h3>
 
 -Office staff and loan officer numbers fluctuated due to delinquency and the need for digitization.
+
 -Despite challenges, active borrowers increased.
+
 -Market leaders like bKash, Nagad, Rocket, and SureCash dominate the MFS sector.
+
 -A surge in agents reflects the growing customer demand.
+
 -MFS accounts in rural areas outpace urban areas.
+
 -Daily transactions skyrocketed from 10 billion taka to 42 billion taka in just four years.
+
 -A spike in registered clients in 2022 highlights challenges in account conversion.
 
 <h3>Challenges in Account Conversion:</h3>
