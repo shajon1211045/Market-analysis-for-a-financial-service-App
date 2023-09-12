@@ -1,4 +1,4 @@
-GitHub Repository README - Easy-Money Financial App
+<h1>GitHub Repository README - Easy-Money Financial App</h1>
 
 Welcome to Easy-Money, your go-to financial app designed to revolutionize the Mobile Financial Service (MFS) landscape in Bangladesh. Here's a brief overview of our market analysis and the innovative features we aim to bring to the table:
 
